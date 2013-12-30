@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * location it uses in every length varying from 2-9, and then places the best
  * word out of those on the board.
  * 
- * @author Abhishek, Aneesh, Jeffrey
+ * @author Abhishek
  * 
  */
 public class AIControlGodly extends AIControl

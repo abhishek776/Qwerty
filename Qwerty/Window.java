@@ -18,7 +18,7 @@ import info.gridworld.gui.WorldFrame;
  * similar. It also contains some generic methods which are used by both
  * PlayerControl and ScrabbleBoard.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class Window extends ActorWorld

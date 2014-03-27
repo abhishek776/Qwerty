@@ -4,7 +4,7 @@ package Qwerty;
  * Represents an interface for polymorphism for AI and PlayerControl because the
  * both represent Players in the game.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public interface Player

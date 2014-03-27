@@ -12,7 +12,7 @@ import java.util.Scanner;
  * Represents the english dictionary, and also helps the AI 
  * find words which it can place on the board.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  *
  */
 public class Dictionary

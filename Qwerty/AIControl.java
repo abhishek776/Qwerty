@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * AIControl serves as the base for all the AI levels, and contains the generic
  * methods for all the levels.
  * 
- * @author Abhishek
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public abstract class AIControl implements Player

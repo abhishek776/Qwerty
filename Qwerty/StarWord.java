@@ -7,7 +7,7 @@ import info.gridworld.grid.Location;
  * Branch of the PowerUp class, so that the StarWord.gif can be applied to this
  * class.
  * 
- * @author Abhishek, Jeffrey
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class StarWord extends DoubleWord

@@ -17,7 +17,7 @@ import info.gridworld.actor.*;
  * the objects pertaining to the game are referenced and where everything that
  * the user does in the game is recognized, and recorded.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class ScrabbleBoard extends Window

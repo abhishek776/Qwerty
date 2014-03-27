@@ -3,7 +3,7 @@ package Qwerty;
 /**
  * Class that runs the Qwerty game.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class PlayQwerty

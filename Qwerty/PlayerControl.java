@@ -21,7 +21,7 @@ import info.gridworld.grid.Location;
  * back all the letters placed on the board back, to the original state of the
  * grid.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class PlayerControl extends Window implements Player

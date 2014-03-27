@@ -10,7 +10,7 @@ import javax.swing.*;
  * and is a essential part of the User Interface and User Friendliness of this
  * game.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * @source NetBeans IDE
  * 
  */

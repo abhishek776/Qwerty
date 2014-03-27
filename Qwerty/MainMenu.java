@@ -8,7 +8,7 @@ import javax.swing.*;
  * user for his/her name, and the difficult/order they want to play in. It is
  * the starting menu for the game, Qwerty.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class MainMenu extends JFrame

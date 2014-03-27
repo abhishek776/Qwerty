@@ -12,7 +12,7 @@ import info.gridworld.grid.Location;
  * letter, and also references which player it was drawn to. It is the primary
  * pieces used by players in the game.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class Letter extends Actor

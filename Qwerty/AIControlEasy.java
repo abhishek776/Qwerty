@@ -6,7 +6,7 @@ import info.gridworld.grid.Location;
 /**
  * Represents the easy AI, which takes all end locations and finds a word with 
  * them and tests them, and picks the best one.
- * @author Abhishek, Aneesh, Jeffrey
+ * @author Abhishek, Anish, Nikhil
  *
  */
 public class AIControlEasy extends AIControl

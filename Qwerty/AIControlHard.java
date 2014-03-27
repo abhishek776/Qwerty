@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * easy and medium, but also tries to find a 9 letter word to put on the board,
  * and if it cannot find it, it runs the original algorithm.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class AIControlHard extends AIControl

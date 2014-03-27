@@ -12,7 +12,7 @@ import java.util.ArrayList;
  * than that it runs exactly the same algorithm as the easy, but is more
  * skilled, as it tests more locations.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class AIControlMedium extends AIControl

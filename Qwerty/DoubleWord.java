@@ -7,7 +7,7 @@ import info.gridworld.grid.Location;
  * Branch of the PowerUp class, so that the DoubleWord.gif can be applied to
  * this class.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class DoubleWord extends PowerUp

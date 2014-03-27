@@ -9,7 +9,7 @@ import info.gridworld.grid.Location;
  * increases scores of the Players in the game. It extends Actor, but doesn't
  * act.
  * 
- * @author Abhishek, Jeffrey, Aneesh
+ * @author Abhishek, Anish, Nikhil
  * 
  */
 public class PowerUp extends Actor
